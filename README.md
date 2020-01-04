@@ -52,6 +52,8 @@ helm update
 helm version
 ```
 
+### Jenkins setup
+
 - Install Jenkins using helm chart with custom values.yaml file
 
 ```
